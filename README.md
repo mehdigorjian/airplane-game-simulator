@@ -1,2 +1,2 @@
 # airplane game
-run the main.py
+run the `main.py`
